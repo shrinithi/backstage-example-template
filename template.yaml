@@ -7,6 +7,7 @@ metadata:
   tags:
     - recommended
     - react
+    - healthy
 spec:
   owner: web@example.com
   templater: cookiecutter
