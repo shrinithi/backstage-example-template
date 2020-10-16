@@ -8,6 +8,7 @@ metadata:
     - recommended
     - react
     - healthy
+  teamName: devex  
 spec:
   owner: web@example.com
   templater: cookiecutter
